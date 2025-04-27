@@ -49,6 +49,6 @@ O projeto sinaliza quando a luminosidade ambiente está adequada, em alerta ou c
 ---
 
 ## 👥 Integrantes do Grupo
-- Henrique Keigo Nakashima Minowa - RM: 564091
 - Eduardo Delorenzo Moraes - RM: 561749
+- Henrique Keigo Nakashima Minowa - RM: 564091
 - Matheus Bispo Faria Barbosa - RM: 562140
